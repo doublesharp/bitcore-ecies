@@ -1,9 +1,7 @@
-<img src="http://bitcore.io/css/images/module-ecies.png" alt="bitcore ecies" height="35">
 # ECIES for bitcore
 
-[![NPM Package](https://img.shields.io/npm/v/bitcore-ecies.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-ecies)
-[![Build Status](https://img.shields.io/travis/bitpay/bitcore-ecies.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-ecies)
-[![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-ecies.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-ecies)
+[![Build Status](https://img.shields.io/travis/doublesharp/bitcore-ecies.svg?branch=master&style=flat-square)](https://travis-ci.org/doublesharp/bitcore-ecies)
+[![Coverage Status](https://img.shields.io/coveralls/doublesharp/bitcore-ecies.svg?style=flat-square)](https://coveralls.io/r/doublesharp/bitcore-ecies)
 
 A module for [bitcore][bitcore] that implements the [Elliptic Curve Integrated Encryption Scheme (ECIES)][ECIES]. Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams.
 
