@@ -31,15 +31,15 @@
   },
   "homepage": "https://github.com/bitpay/bitcore-ecies",
   "devDependencies": {
-    "assert": "^1.1.2",
+    "assert": "^1.4.1",
     "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
-    "brfs": "^1.2.0",
-    "browserify": "^8.1.0",
-    "chai": "~1.10.0",
-    "gulp": "^3.8.10"
+    "brfs": "^1.6.1",
+    "browserify": "^16.2.2",
+    "chai": "~4.1.2",
+    "gulp": "^3.9.1"
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "bitcore-lib": "^0.14.0"
+    "bitcore-lib": "^0.15.0"
   }
 }
